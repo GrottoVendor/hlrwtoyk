@@ -1,0 +1,23 @@
+{
+  "repo": "painttool-sai-2-drawing-suite",
+  "product": "PaintTool SAI 2 Drawing Suite",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "painttool-sai-2-drawing",
+    "painttool-sai",
+    "painttool-sai-drawing",
+    "painttool-sai-2",
+    "how-to-install-painttool-sai",
+    "how-to-setup-painttool-sai",
+    "desktop-package",
+    "windows-11",
+    "windows-10"
+  ],
+  "site": "unaflore.co",
+  "product_title": "PaintTool SAI 2 Drawing Suite"
+}
